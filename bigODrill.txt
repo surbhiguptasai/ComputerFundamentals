@@ -1,0 +1,15 @@
+1.Even or odd ---O(1) Constant Time
+2.Are you here? ---O(n^2) Polynomial time
+3.Doubler ---O(n) Linear Time
+4.Naive Search ---O(n) Linear Time
+5.Creating pairs ---O(n^2) Polynomial time
+6.Computing fibonaccis ---O(n) Linear Time
+7.An Efficient Search ---O(log(n)) Logarithmic Time
+8.Random element ---O(1) Constant Time
+9.Is it prime? ------O(n) Linear Time
+  
+
+
+
+   
+
